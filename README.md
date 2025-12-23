@@ -48,7 +48,9 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 * This shows promotions are an effective demand lever, trading margin for volume consistently across all product types.
 
-<img width="471" height="321" alt="image" src="https://github.com/user-attachments/assets/6036ca0a-d343-4fef-90be-1c64846577b7" />
+<img width="662" height="464" alt="image" src="https://github.com/user-attachments/assets/a95457e4-b7a5-4ae0-9d6c-efab33b938c3" />
+
+
 
 
 
