@@ -61,7 +61,8 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 ⦁	Avg price are all clustered together at about $42 per product across all categories. Revenue differences are driven mostly by product mix and SKU allocation, not pricing strategy, leaving room to rebalance assortment toward more efficient categories.
 
-<img src="https://github.com/user-attachments/assets/4833a3c2-aadf-48dc15261d0a7" width="610" height="373" />
+<img width="610" height="373" alt="image" src="https://github.com/user-attachments/assets/f8b20d4e-055e-47d7-aef1-d0ddc7f9032d" />
+
 
 ### Season Comparisons
 
