@@ -84,7 +84,7 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 * Revenue growth is concentrated in women’s assortment with over **13000 SKUs**, driven by both scale and efficiency.
 
-<img src="https://github.com/user-attachments/assets/410f4783-7d01-4ed1-abc5-f8ed1148456f" width="645" height="367" />
+<img src="https://github.com/user-attachments/assets/410f4783-7d01-4ed1-abc5-f8ed1148456f" width="545" height="267" />
 
 ### Recommendations:
 based on the uncovered insights the following recommendations have been provided:
