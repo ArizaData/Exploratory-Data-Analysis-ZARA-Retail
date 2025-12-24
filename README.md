@@ -51,7 +51,7 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 ⦁	Promotions drive higher sales in both men(816 → 1,319 units) and women (902 → 1,461 units), showing the tactic is effective across gender categories and supports broad demand growth.
 
-<img width="662" height="464" alt="image" src="https://github.com/user-attachments/assets/a95457e4-b7a5-4ae0-9d6c-efab33b938c3" />
+<img width="662" height="364" alt="image" src="https://github.com/user-attachments/assets/a95457e4-b7a5-4ae0-9d6c-efab33b938c3" />
 
 ### Product Type Performance
 
