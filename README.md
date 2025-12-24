@@ -20,10 +20,13 @@ Insights and recommendations are provided on the following key areas:
 ## Dataset Overview
 Zara's database that was given consist of one table - business_sales_eda with a row count of 20253 products.
 
+Prior to beginning the analysis, a variety of checks were conducted for familiarization and cleaning up of inconsistencies with the data in Excel.
+
+Cleaned data:
 <img width="259" height="308" alt="Screenshot 2025-12-22 160106" src="https://github.com/user-attachments/assets/887478ed-f1db-4340-b5b4-010cc37c132e" />
 
 
-Prior to beginning the analysis, a variety of checks were conducted for familiarization and cleaning up inconsistencies with the dataset along with converting CSV to An Excel file.
+
 
 ## Executive Summary
 
