@@ -32,7 +32,7 @@ We generated $885M in total sales, with Jackets/Outerwear contributing about 40%
 
 Below is a overview snapshot of a interactive dashboard I made in excel with more examples included below. You can download excel dashboard here
 
-<img width="2413" height="965" alt="Screenshot 2025-12-25 122955" src="https://github.com/user-attachments/assets/690e13a9-c76c-4984-90e9-71868a026c32" />
+<img width="2418" height="972" alt="Screenshot 2025-12-25 123209" src="https://github.com/user-attachments/assets/b7d793a4-c6bb-468e-bf58-d03e198e6f8e" />
 
 
 
@@ -95,11 +95,3 @@ based on the uncovered insights the following recommendations have been provided
 
 ⦁	Monitor SKU-to-revenue ratio over time. **Track avg revenue per product and phase out underperforming products** to maintain inventory efficiency and prevent dilution of revenue per product as we gather more time metrics to further improve.
   
-
-
-
-
-
-
-  
-
